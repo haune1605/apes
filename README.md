@@ -2,4 +2,5 @@ apes
 rule
 ====
 
-blake is the one and only creator of apes
+blake is the not the one and only anything,
+hunter is king here
