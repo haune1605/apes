@@ -1,6 +1,3 @@
-apes
-rule
-====
+A new and very cool file.
 
-blake is the not the one and only anything,
-hunter is king here
+YES!!
